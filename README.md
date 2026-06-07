@@ -44,3 +44,11 @@ Inception       0.5650     0.6521  #4
 The GAN-based art generator effectively creates unique, visually appealing art-like images, demonstrating promising results across multiple model architectures. Fine-tuning the model could lead to even more sophisticated outputs.
 
 --- 
+
+**AUTHOR**
+```
+SIDDHARTH SHUKLA
+
+github.com/siddharth277
+```
+

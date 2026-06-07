@@ -45,6 +45,11 @@ Std deviation  : 0.0679
 The GAN-based art generator effectively creates unique, visually appealing art-like images, demonstrating promising results across multiple model architectures. Fine-tuning the model could lead to even more sophisticated outputs.
 
 --- 
+**Upgraded work**
+
+We can Use real CIFAR-10 or any colour based images dataset instead of random noise to get better accuracy.
+
+
 
 **AUTHOR**
 ```
@@ -52,4 +57,6 @@ SIDDHARTH SHUKLA
 
 github.com/siddharth277
 ```
+
+
 
